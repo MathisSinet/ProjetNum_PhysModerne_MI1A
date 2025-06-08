@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 startx = 0.1
 endx = 20
 
+
 HBAR = 1.054571818e-34
 M = 9.10938356e-31
 L = 1e-18
